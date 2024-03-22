@@ -30,7 +30,7 @@ p {
 }
 
 form {
-    background-color: rgba(242, 242, 242, 0.8);;
+    background-color: rgba(242, 242, 242, 0.6);
     padding: 20px; 
     border-radius: 10px;
     max-width: 400px; 
@@ -64,7 +64,7 @@ form input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #efaaca;
+    background-color: rgb(237, 192, 213);
 }
 
 label[for="age-verification"] {
